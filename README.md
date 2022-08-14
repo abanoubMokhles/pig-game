@@ -1,2 +1,2 @@
 # pig-game
-a dice game
+A dice game to practice DOM Manipulation.
